@@ -6,7 +6,7 @@ export default function Info() {
       <section className="blog-info pb-5">
         <div className="landing-page overflow-hidden position-relative">
           <img
-            src="../public/art1.jfif"
+            src="/task1/art1.jfif"
             alt="Main Image"
             className="main-img position-absolute object-fit-cover h-100 w-100"
           />
@@ -54,7 +54,7 @@ export default function Info() {
 
               <div className="user-card d-flex align-items-center gap-3 rounded-4 p-3">
                 <img
-                  src="../public/user1.jfif"
+                  src="/task1/user1.jfif"
                   alt="User Image"
                   className=" rounded-circle object-fit-cover"
                 />
@@ -215,7 +215,7 @@ export default function Info() {
                 <div className="writter-details mt-4 rounded-4">
                   <div className="d-flex align-items-center gap-4">
                     <img
-                      src="./public/user1.jfif"
+                      src="/task1/user1.jfif"
                       alt="سالم أحمد"
                       className=" object-fit-cover rounded-4"
                     />
@@ -386,7 +386,7 @@ export default function Info() {
               >
                 <div className="image position-relative overflow-hidden">
                   <img
-                    src="./public/art4.jfif"
+                    src="/task1/art4.jfif"
                     alt="image"
                     className=" object-fit-cover w-100 h-100 "
                   />
@@ -407,7 +407,7 @@ export default function Info() {
                     <div className="user d-flex align-items-center gap-2">
                       <div className="user-img rounded-circle">
                         <img
-                          src="./public/user29.jfif"
+                          src="/task1/user29.jfif"
                           alt="user image"
                           className=" w-100 h-100 object-fit-cover"
                         />
@@ -427,7 +427,7 @@ export default function Info() {
               >
                 <div className="image position-relative overflow-hidden">
                   <img
-                    src="./public/art3.jfif"
+                    src="/task1/art3.jfif"
                     alt="image"
                     className=" object-fit-cover w-100 h-100 "
                   />
@@ -448,7 +448,7 @@ export default function Info() {
                     <div className="user d-flex align-items-center gap-2">
                       <div className="user-img rounded-circle">
                         <img
-                          src="./public/user30.jfif"
+                          src="/task1/user30.jfif"
                           alt="user image"
                           className=" w-100 h-100 object-fit-cover"
                         />
@@ -468,7 +468,7 @@ export default function Info() {
               >
                 <div className="image position-relative overflow-hidden">
                   <img
-                    src="./public/art5.jfif"
+                    src="/task1/art5.jfif"
                     alt="image"
                     className=" object-fit-cover w-100 h-100 "
                   />
@@ -489,7 +489,7 @@ export default function Info() {
                     <div className="user d-flex align-items-center gap-2">
                       <div className="user-img rounded-circle">
                         <img
-                          src="./public/user28.jfif"
+                          src="/task1/user28.jfif"
                           alt="user image"
                           className=" w-100 h-100 object-fit-cover"
                         />

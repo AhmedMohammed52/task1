@@ -8,7 +8,7 @@ export default function Navbar() {
           <Link className="navbar-brand d-flex align-items-center gap-3" to="/">
             <div className="logo-img position-relative">
               <img
-                src="../public/logo-GdqARQRt.png"
+                src="/task1/logo-GdqARQRt.png"
                 alt="Logo Image"
                 className="w-100 h-100 object-fit-cover"
               />

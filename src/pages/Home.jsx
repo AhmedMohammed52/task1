@@ -111,7 +111,7 @@ export default function Home() {
                   <div className="d-grid gap-0">
                     <div className="image main position-relative overflow-hidden">
                       <img
-                        src="../public/art1.jfif"
+                        src="/task1/art1.jfif"
                         alt="Articale Image"
                         className="w-100 h-100 object-fit-cover"
                       />
@@ -148,7 +148,7 @@ export default function Home() {
                         <div className="profile d-flex align-items-center">
                           <div className="image position-relative">
                             <img
-                              src="../public/user1.jfif"
+                              src="/task1/user1.jfif"
                               alt="User Image"
                               className="object-fit-cover rounded-circle "
                             />
@@ -180,7 +180,7 @@ export default function Home() {
                   <div className="d-grid gap-0">
                     <div className="image main position-relative overflow-hidden">
                       <img
-                        src="../public/user1bg.jfif"
+                        src="/task1/user1bg.jfif"
                         alt="Articale Image"
                         className="w-100 h-100 object-fit-cover"
                       />
@@ -217,7 +217,7 @@ export default function Home() {
                         <div className="profile d-flex align-items-center">
                           <div className="image position-relative">
                             <img
-                              src="../public/user2.jfif"
+                              src="/task1/user2.jfif"
                               alt="User Image"
                               className="object-fit-cover rounded-circle "
                             />
@@ -247,7 +247,7 @@ export default function Home() {
                   <div className="d-grid gap-0">
                     <div className="image main position-relative overflow-hidden">
                       <img
-                        src="../public/art2.jfif"
+                        src="/task1/art2.jfif"
                         alt="Articale Image"
                         className="w-100 h-100 object-fit-cover"
                       />
@@ -285,7 +285,7 @@ export default function Home() {
                         <div className="profile d-flex align-items-center">
                           <div className="image position-relative">
                             <img
-                              src="../public/user3.jfif"
+                              src="/task1/user3.jfif"
                               alt="User Image"
                               className="object-fit-cover rounded-circle "
                             />
@@ -486,7 +486,7 @@ export default function Home() {
                 <Link to="" className="d-block">
                   <div className="image position-relative overflow-hidden">
                     <img
-                      src="../public/latest1.jfif"
+                      src="/task1/latest1.jfif"
                       alt="Latest Image 1"
                       className="w-100 h-100 object-fit-cover"
                     />
@@ -523,7 +523,7 @@ export default function Home() {
                     <div className="card-footer pt-3 d-flex justify-content-between align-items-center">
                       <div className="user-info d-flex align-items-center">
                         <img
-                          src="../public/latestUser1.jfif"
+                          src="/task1/latestUser1.jfif"
                           alt="User Image"
                           className=" rounded-circle object-fit-cover"
                         />
@@ -549,7 +549,7 @@ export default function Home() {
                 <Link to="" className="d-block">
                   <div className="image position-relative overflow-hidden">
                     <img
-                      src="../public/latest2.jfif"
+                      src="/task1/latest2.jfif"
                       alt="Latest Image 2"
                       className="w-100 h-100 object-fit-cover"
                     />
@@ -586,7 +586,7 @@ export default function Home() {
                     <div className="card-footer pt-3 d-flex justify-content-between align-items-center">
                       <div className="user-info d-flex align-items-center">
                         <img
-                          src="../public/latestUser2.jfif"
+                          src="/task1/latestUser2.jfif"
                           alt="User Image"
                           className=" rounded-circle object-fit-cover"
                         />
@@ -612,7 +612,7 @@ export default function Home() {
                 <Link to="" className="d-block">
                   <div className="image position-relative overflow-hidden">
                     <img
-                      src="../public/latest3.jfif"
+                      src="/task1/latest3.jfif"
                       alt="Latest Image 3"
                       className="w-100 h-100 object-fit-cover"
                     />
@@ -649,7 +649,7 @@ export default function Home() {
                     <div className="card-footer pt-3 d-flex justify-content-between align-items-center">
                       <div className="user-info d-flex align-items-center">
                         <img
-                          src="../public/latestUser3.jfif"
+                          src="/task1/latestUser3.jfif"
                           alt="User Image"
                           className=" rounded-circle object-fit-cover"
                         />
@@ -709,17 +709,17 @@ export default function Home() {
                 <div className="d-flex align-items-center gap-3">
                   <div className="images d-flex">
                     <img
-                      src="../public/user1.jfif"
+                      src="/task1/user1.jfif"
                       alt="Subscribe User Image"
                       className="rounded-circle"
                     />
                     <img
-                      src="../public/user2.jfif"
+                      src="/task1/user2.jfif"
                       alt="Subscribe User Image"
                       className="rounded-circle"
                     />
                     <img
-                      src="../public/user3.jfif"
+                      src="/task1/user3.jfif"
                       alt="Subscribe User Image"
                       className="rounded-circle"
                     />

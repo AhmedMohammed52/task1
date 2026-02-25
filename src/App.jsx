@@ -6,19 +6,24 @@ import About from "./pages/About";
 import NotFound from "./pages/NotFound";
 import Layout from "./Layout";
 
-const router = createBrowserRouter([
+const router = createBrowserRouter(
+  [
+    {
+      path: "",
+      element: <Layout />,
+      children: [
+        { index: true, element: <Home /> },
+        { path: "blog", element: <Blog /> },
+        { path: "info", element: <Info /> },
+        { path: "about", element: <About /> },
+        { path: "*", element: <NotFound /> },
+      ],
+    },
+  ],
   {
-    path: "",
-    element: <Layout />,
-    children: [
-      { index: true, element: <Home /> },
-      { path: "blog", element: <Blog /> },
-      { path: "info", element: <Info /> },
-      { path: "about", element: <About /> },
-      { path: "*", element: <NotFound /> },
-    ],
+    basename: "/task1/",
   },
-]);
+);
 
 export default function App() {
   return (

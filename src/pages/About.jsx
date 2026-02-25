@@ -153,7 +153,7 @@ export default function About() {
                     <div className="partner-card p-4 text-center rounded-4 h-100">
                       <div className="image position-relative d-inline-block mb-3">
                         <img
-                          src="../public/user1.jfif"
+                          src="/task1/user1.jfif"
                           alt="Partner Image"
                           className=" object-fit-cover rounded-circle"
                         />
@@ -187,7 +187,7 @@ export default function About() {
                     <div className="partner-card p-4 text-center rounded-4 h-100">
                       <div className="image position-relative d-inline-block mb-3">
                         <img
-                          src="../public/user2.jfif"
+                          src="/task1/user2.jfif"
                           alt="Partner Image"
                           className=" object-fit-cover rounded-circle"
                         />
@@ -221,7 +221,7 @@ export default function About() {
                     <div className="partner-card p-4 text-center rounded-4 h-100">
                       <div className="image position-relative d-inline-block mb-3">
                         <img
-                          src="../public/user1.jfif"
+                          src="/task1/user1.jfif"
                           alt="Partner Image"
                           className=" object-fit-cover rounded-circle"
                         />
